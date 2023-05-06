@@ -17,7 +17,7 @@
     "react-dom": "^16.9.0",
     "react-icons": "^3.7.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "rendition": "^11.16.2",
     "socket.io": "^2.3.0",
     "styled-components": "^4.4.0",
